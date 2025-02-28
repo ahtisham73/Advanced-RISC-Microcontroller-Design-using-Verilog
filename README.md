@@ -1,8 +1,10 @@
 # 🧮 Advanced RISC Microcontroller Design using Verilog
 
-![Microcontroller](https://your-image-link.com)
+
 
 [![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)](https://en.wikipedia.org/wiki/Verilog)[![VHDL](https://img.shields.io/badge/VHDL-HDL-purple)](https://en.wikipedia.org/wiki/VHDL)[![Quartus Prime](https://img.shields.io/badge/Quartus%20Prime-Intel%20FPGA-green)](https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html)[![ModelSim](https://img.shields.io/badge/ModelSim-Mentor%20Graphics-red)](https://www.mentor.com/products/fv/modelsim/) [![Xilinx Vivado](https://img.shields.io/badge/Xilinx%20Vivado-FPGA-orange)](https://www.xilinx.com/products/design-tools/vivado.html)  [![Digital Logic](https://img.shields.io/badge/Digital%20Logic-Design-brightgreen)](https://en.wikipedia.org/wiki/Digital_electronics)  [![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-Development-blue)](https://en.wikipedia.org/wiki/Embedded_system)  [![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-Hardware-orange)](https://en.wikipedia.org/wiki/Computer_architecture)  [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
+ ![Microcontroller](/docs/Microcontroller.png)
  
 ## 🚀 Overview
 This project presents a **custom-designed RISC-based microcontroller** implemented using Verilog, featuring a simplified instruction set, Harvard architecture, and non-pipelined execution. The design ensures efficient processing, reduced cycle time, and optimized resource utilization.
