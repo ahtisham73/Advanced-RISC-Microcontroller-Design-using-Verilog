@@ -163,25 +163,11 @@ endmodule
 
 ## 📁 Project Files
 ```
-📂 risc_microcontroller
- ├── 📜 README.md  # This file
- ├── 📂 src  # Source Code
- │   ├── control_unit.v
- │   ├── alu.v
- │   ├── registers.v
- │   ├── mux.v
- │   ├── memory.v
- │   ├── pc_adder.v
- │   └── testbench.v
- ├── 📂 docs  # Documentation
- │   ├── architecture_diagram.png
- │   └── instruction_set.pdf
- ├── 📂 simulations  # Test results
- │   ├── sample_test1.vcd
- │   ├── sample_test2.vcd
- │   └── waveform.png
- ├── LICENSE  # License file
- ├── .gitignore  # Git ignore file
+📂 Advanced-RISC-Microcontroller-Design-using-Verilog
+├── 📜 README.md # Project Overview
+├── 📂 src # Source Code │ ├── Adder.v │ ├── ALU.v │ ├── ControlUnit.v │ ├── DMem.v │ ├── instr_set.dat │ ├── Microcontroller.v │ ├── Microcontroller.v.bak │ ├── MicroController_tb.v │ ├── MicroController_tb.v.bak │ ├── MUX.v │ ├── PMem.v │ ├── test_1.txt │ ├── test_2.txt │ ├── Microcontroller.qpf # Quartus Prime Project File │ ├── Microcontroller.qsf # Quartus Settings File │ ├── Microcontroller.qws # Quartus Workspace File │ ├── Microcontroller_nativelink_simulation.rpt # Simulation Report │ ├── c5_pin_model_dump.txt # Pin Configuration
+├── 📂 docs # Documentation │ ├── Project_Report.pdf │ ├── architecture_diagram.png
+├── 📂 simulation # Test results & Waveforms │ ├── RTL_diagram.png │ ├── Timming_diagram_testbench.png ├── LICENSE # License file ├── .gitignore # Git ignore file
 ```
 
 ## 📜 References
